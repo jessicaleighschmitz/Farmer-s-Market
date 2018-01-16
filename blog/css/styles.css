@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color: #9CD3EA;
+}
+h1 {
+  font-size: 90px;
+  text-align: center;
+  font-style: italic;
+}
+.post {
+  width: 50%;
+  text-align: center;
+  padding: 10px 10px;
+  border: solid 2px #2A667F;
+  margin: 70px auto 0 auto;
+  background-color: #F8EF97;
+}
+p {
+  text-align: center;
+}
